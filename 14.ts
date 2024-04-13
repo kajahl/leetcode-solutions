@@ -1,7 +1,7 @@
 /*
     Leetcode
     - Task: https://leetcode.com/problems/longest-common-prefix/
-    - Solution: 
+    - Solution: https://leetcode.com/submissions/detail/1231584681/
 */
 
 
